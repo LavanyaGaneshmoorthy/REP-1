@@ -1,0 +1,13 @@
+mark=int(input("Enter mark:"))
+if(mark<=25):
+print("The Grade is:",F)
+elif(mark <35 and mark>45)
+print("The Grade iS:",E)
+elif(mark<45 and mark>50)
+print("The Grade is:",D)
+elif(mark<50 and mark>60)
+print("The Grade is:",C)
+elif(mark<60 and mark>70)
+print("The Grade is:",B)
+else(mark<80):
+print("The Grade is:",A)
